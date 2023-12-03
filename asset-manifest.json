@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ebooks/static/css/main.2d071c70.css",
-    "main.js": "/ebooks/static/js/main.f364d5ae.js",
+    "main.js": "/ebooks/static/js/main.1cc20e0a.js",
     "static/js/787.51e21ce1.chunk.js": "/ebooks/static/js/787.51e21ce1.chunk.js",
     "static/media/iOSNotesForProfessionals.pdf": "/ebooks/static/media/iOSNotesForProfessionals.ca3be03ca137653dc5c8.pdf",
     "static/media/AndroidNotesForProfessionals.pdf": "/ebooks/static/media/AndroidNotesForProfessionals.23b3f9b8fd0ac98beb9b.pdf",
@@ -56,11 +56,11 @@
     "static/media/bg-pic.jpeg": "/ebooks/static/media/bg-pic.7b14d1648f34e9b2ca01.jpeg",
     "index.html": "/ebooks/index.html",
     "main.2d071c70.css.map": "/ebooks/static/css/main.2d071c70.css.map",
-    "main.f364d5ae.js.map": "/ebooks/static/js/main.f364d5ae.js.map",
+    "main.1cc20e0a.js.map": "/ebooks/static/js/main.1cc20e0a.js.map",
     "787.51e21ce1.chunk.js.map": "/ebooks/static/js/787.51e21ce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d071c70.css",
-    "static/js/main.f364d5ae.js"
+    "static/js/main.1cc20e0a.js"
   ]
 }
